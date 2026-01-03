@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Navigating the Architecture of Modern Cloud Native Applications"
-date:   2026-01-04 01:52:00
+date:   2025-12-04 01:52:00
 categories: Kubernetes 101
 tags: featured
 image: /assets/article_images/post-1.jpg
