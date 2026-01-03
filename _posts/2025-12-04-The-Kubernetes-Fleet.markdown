@@ -71,12 +71,12 @@ A Pod represents a single instance of a running process in your cluster. It enca
 
 
 # The Workflow: From Order to Delivery
-[number]. The Order: You submit a manifest (YAML) to the Control Tower (API Server)
-[number]. The Record: The API Server writes this desired state to the Ledger (etcd).
-[number]. The Plan: The Fleet Manager (Controller) notices a new Deployment is required and creates a "ReplicaSet."
-[number]. The Assignment: The Harbor Master (Scheduler) sees pending Pods and assigns them to a specific Cargo Ship (Node) based on resources.
-[number]. The Dispatch: The First Mate (kubelet) on that Node sees the assignment, pulls the image, and starts the container.
-[number]. The Route: The Navigator (kube-proxy) updates the networking rules so traffic can find the new application.
+[1]. The Order: You submit a manifest (YAML) to the Control Tower (API Server)
+[2]. The Record: The API Server writes this desired state to the Ledger (etcd).
+[3]. The Plan: The Fleet Manager (Controller) notices a new Deployment is required and creates a "ReplicaSet."
+[4]. The Assignment: The Harbor Master (Scheduler) sees pending Pods and assigns them to a specific Cargo Ship (Node) based on resources.
+[5]. The Dispatch: The First Mate (kubelet) on that Node sees the assignment, pulls the image, and starts the container.
+[6]. The Route: The Navigator (kube-proxy) updates the networking rules so traffic can find the new application.
 
 
 # Conclusion
