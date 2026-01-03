@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Cloud Deceivers began in Tallinn, Estonia, inside the vast concrete halls of the Seaplane Harbour. In the dim light of the museum, one artifact stood out: a Neufeldt & Kuhnke atmospheric diving suit from the 1920s. It wasn’t just a diving suit, but a wearable submarine — a rigid, armored shell built to let a human operate safely in the most hostile environment imaginable: the deep ocean.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+The suit didn’t attempt to control the ocean or reduce its pressure. It accepted the environment as it was. Instead, it created a calm, protected space inside, allowing the operator to see clearly and function safely while darkness, pressure, and chaos remained outside. The danger wasn’t deception by intent — it was loss of visibility caused by the environment itself.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+That realisation became the foundation of Cloud Deceivers OÜ
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Modern cloud-native systems behave in much the same way. They are vast, layered, and constantly changing. Abstractions and scale make them powerful, but they also obscure reality. Complexity creates blind spots — places where systems appear understandable on the surface while critical behavior disappears beneath it. These blind spots are the real deceivers, quietly distorting visibility and confidence without any malicious intent.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Cloud Deceivers exists to confront those deceivers. Our purpose is to see through complexity, expose blind spots, and restore clarity beneath the surface. We don’t fight the environment or simplify it away. We focus on making reality observable again — preserving understanding in systems where visibility would otherwise fail.
+
+Cloud native complexity hides reality. We make it observable.
