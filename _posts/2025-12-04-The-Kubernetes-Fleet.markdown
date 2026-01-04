@@ -3,7 +3,6 @@ layout: post
 title:  "Navigating the Architecture of Modern Cloud Native Applications"
 date:   2025-12-04 01:52:00
 categories: Kubernetes 101
-tags: featured
 image: /assets/article_images/post-1.jpg
 ---
 Kubernetes is often described as the "OS of the cloud," but that abstraction can sometimes hide the complexity of what is actually happening under the hood. To truly understand how Kubernetes orchestrates workloads, it helps to step away from the code for a moment and look at the logistics.
