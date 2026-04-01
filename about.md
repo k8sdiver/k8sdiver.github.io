@@ -4,14 +4,77 @@ title: About
 permalink: /about/
 ---
 
-Cloud Deceivers began in Tallinn, Estonia, inside the vast concrete halls of the Seaplane Harbour. In the dim light of the museum, one artifact stood out: a Neufeldt & Kuhnke atmospheric diving suit from the 1920s. It wasn’t just a diving suit, but a wearable submarine — a rigid, armored shell built to let a human operate safely in the most hostile environment imaginable: the deep ocean.
+# Hi, I'm Amgad Magdy 👋
 
-The suit didn’t attempt to control the ocean or reduce its pressure. It accepted the environment as it was. Instead, it created a calm, protected space inside, allowing the operator to see clearly and function safely while darkness, pressure, and chaos remained outside. The danger wasn’t deception by intent — it was loss of visibility caused by the environment itself.
+**DevSecOps Engineer · Cloud-Native Security · AI Infrastructure Security**
 
-That realisation became the foundation of Cloud Deceivers OÜ
+🌍 Cairo, Egypt — Open to relocation & remote  
+🔗 [linkedin.com/in/amgadmagdy](https://linkedin.com/in/amgadmagdy) · 📧 amgadmagdy@outlook.com
 
-Modern cloud-native systems behave in much the same way. They are vast, layered, and constantly changing. Abstractions and scale make them powerful, but they also obscure reality. Complexity creates blind spots — places where systems appear understandable on the surface while critical behavior disappears beneath it. These blind spots are the real deceivers, quietly distorting visibility and confidence without any malicious intent.
+---
 
-Cloud Deceivers exists to confront those deceivers. Our purpose is to see through complexity, expose blind spots, and restore clarity beneath the surface. We don’t fight the environment or simplify it away. We focus on making reality observable again — preserving understanding in systems where visibility would otherwise fail.
+## About me
 
-Cloud native complexity hides reality. We make it observable.
+Cybersecurity specialist with **8+ years** in cyber defense, threat intelligence, and container security across the Middle East and Africa. Now transitioning full-time into **DevSecOps and AI infrastructure security**.
+
+- 🏛️ Co-founder of the **MITRE ATT&CK community** in Africa & the Middle East
+- 🤖 Applying adversarial threat modeling to AI/ML systems via **MITRE ATLAS**
+- ☸️ Completing the full Kubernetes security track: **KCNA → CKA → CKS**
+- 🎓 MSc Cybersecurity, **1st Class Honours** — Munster Technological University, Ireland
+- 🏆 Andela Africa / Linux Foundation scholarship recipient
+
+---
+
+## Certification progress
+
+| Certification | Status | Target |
+|---|---|---|
+| Sysdig Kraken Hunter | ✅ Achieved | — |
+| CounterCraft Certified System Engineer | ✅ Achieved | — |
+| Kaspersky Threat Intelligence (039.02) | ✅ Achieved | — |
+| AccessData Certified Investigator | ✅ Achieved | — |
+
+---
+
+## Tech stack
+
+**Kubernetes & Cloud Native**
+`Kubernetes` `Minikube` `Kind` `Falco` `Sysdig` `Helm` `Kyverno` `OPA/Gatekeeper`
+
+**DevSecOps Pipeline**
+`GitHub Actions` `Trivy` `Snyk` `Semgrep` `Cosign` `SBOM` `Checkov` `Terraform`
+
+**AI & ML Security**
+`MITRE ATLAS` `OWASP LLM Top 10` `MLOps Security` `Ollama`
+
+**Threat Intelligence & Deception**
+`MITRE ATT&CK` `CounterCraft` `Anomali TIP/XDR` `Honeytokens`
+
+**Languages**
+`Python` `Bash` `YAML`
+
+---
+
+## Background
+
+Before this pivot, I spent 8 years advising enterprises and governments across the MENA region:
+
+- **CounterCraft** — Deployed cyber deception campaigns for regional banks in Egypt, Saudi Arabia, and Oman (up to 80% improvement in threat intelligence visibility)
+- **ECCA Group** — Led a cyber resilience engineering unit serving enterprises in Egypt and Saudi Arabia
+- **Cyber1 Africa** — Senior intelligence consultant across 50+ partners in Africa
+- **Infort** — Security architect on 6 national-scale projects including Telecom Egypt's data centre (5,000+ servers)
+- **NTRA** — Designed a national critical infrastructure protection programme covering 95% of Egypt's telecom infrastructure
+
+---
+
+## Writing & community
+
+📝 I write about DevSecOps, Kubernetes security, and AI threat modeling on [LinkedIn](https://linkedin.com/in/amgadmagdy)
+
+🎤 Speaker at ASC 2017 and ASC 2022 (Cairo)
+
+📄 Published: *"Smart Cities appeal and 15 things that should not go wrong"* — Securing Smart Cities Global Initiative
+
+---
+
+*Last updated: March 2026*
